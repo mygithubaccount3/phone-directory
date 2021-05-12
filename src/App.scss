@@ -1,0 +1,46 @@
+.App {
+    height: 95vh;
+    margin: auto;
+    padding-top: 15px;
+    width: 90%;
+}
+
+#overlay {
+    display: none;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(0,0,0,0.5);
+    display: none;
+    z-index: 2;
+}
+
+#saveEntryForm, #editEntryForm {
+    box-sizing: border-box;
+    display: none;
+    flex-direction: column;
+    width: 30%;
+    height: 220px;
+    justify-content: space-between;
+    border: 1px dashed #0a3444;
+    padding: 20px;
+    z-index: 3;
+    left: 35%;
+    right: 35%;
+    background-color: #f0f8ff;
+    position: absolute;
+
+    @media screen and (max-width: 767px) {
+        width: 70%;
+        left: 15%;
+        right: 15%;
+    }
+
+    @media screen and (min-width: 768px) and (max-width: 1024px) {
+        width: 40%;
+        right: 30%;
+        left: 30%;
+    }
+}
