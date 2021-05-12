@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.09cb5a15.chunk.css",
-    "main.js": "/static/js/main.655d08cf.chunk.js",
-    "main.js.map": "/static/js/main.655d08cf.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ddf52299.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ddf52299.js.map",
-    "static/js/2.0463224f.chunk.js": "/static/js/2.0463224f.chunk.js",
-    "static/js/2.0463224f.chunk.js.map": "/static/js/2.0463224f.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.09cb5a15.chunk.css.map": "/static/css/main.09cb5a15.chunk.css.map",
-    "static/js/2.0463224f.chunk.js.LICENSE.txt": "/static/js/2.0463224f.chunk.js.LICENSE.txt"
+    "main.css": "/phone-directory/build/static/css/main.09cb5a15.chunk.css",
+    "main.js": "/phone-directory/build/static/js/main.655d08cf.chunk.js",
+    "main.js.map": "/phone-directory/build/static/js/main.655d08cf.chunk.js.map",
+    "runtime-main.js": "/phone-directory/build/static/js/runtime-main.44f12070.js",
+    "runtime-main.js.map": "/phone-directory/build/static/js/runtime-main.44f12070.js.map",
+    "static/js/2.0463224f.chunk.js": "/phone-directory/build/static/js/2.0463224f.chunk.js",
+    "static/js/2.0463224f.chunk.js.map": "/phone-directory/build/static/js/2.0463224f.chunk.js.map",
+    "index.html": "/phone-directory/build/index.html",
+    "static/css/main.09cb5a15.chunk.css.map": "/phone-directory/build/static/css/main.09cb5a15.chunk.css.map",
+    "static/js/2.0463224f.chunk.js.LICENSE.txt": "/phone-directory/build/static/js/2.0463224f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ddf52299.js",
+    "static/js/runtime-main.44f12070.js",
     "static/js/2.0463224f.chunk.js",
     "static/css/main.09cb5a15.chunk.css",
     "static/js/main.655d08cf.chunk.js"
